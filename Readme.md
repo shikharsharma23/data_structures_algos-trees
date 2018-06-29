@@ -1,0 +1,1 @@
+### Simple Python Implemnetation of printing all paths from root to leaf of a binary tree
